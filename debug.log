@@ -1,7 +1,0 @@
-[0316/230537.091:WARNING:thread_snapshot_minidump.cc(88)] Snapshot X86 context support has no unit tests.
-[0316/230540.830:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
-[0316/230540.860:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
-[0316/230540.860:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
-[0316/230547.072:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
-[0316/230547.072:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
-[0316/230547.072:ERROR:process_reader_win.cc(151)] SuspendThread: Отказано в доступе. (0x5)
